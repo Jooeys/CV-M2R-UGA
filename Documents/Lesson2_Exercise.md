@@ -22,3 +22,7 @@ from the same image.
 a fixed size vector before passing them through MLP network.
 4) Download the test set, and test your model on the provided imagettes.
 5) Tune your model parameters, and post your best model results on
+
+
+### Question
+1. 

@@ -1,4 +1,4 @@
-## Thursday 1 Oct 2020    Lesson 1:  Theory: Performance Evaluation for Recognition and Detection 
+## Thursday 1 Oct 2020    Lesson 1:  Theory: Performance Evaluation for Recognition and Detection
 Course Introduction:  James Crowley
           •  Course Organisation
 Computer Vision Theory: (Nachwa Aboubakr)
