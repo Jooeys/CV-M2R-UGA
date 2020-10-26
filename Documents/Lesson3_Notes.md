@@ -16,6 +16,15 @@ Pyramid image
 gaussian filter
 laplacian
 
-###  Recursive Pyramid Algorithm
- 
-### 
+
+##  Recursive Pyramid Algorithm
+
+## full-octave pyramid
+The position in the original image of a sample from level k is  x = i∆xk and y = j∆yk  If we sampling at a scale step of ∆xk = 2k  this gives a  "full octave" pyramid.
+## half-octave pyramid
+It is also possible to build a scale invariant pyramid with a step size of  ∆xk = 2k/2  using ∆xk  = 2k/2   This is known as a “half-octave” pyramid
+
+## Image Pyramids
+https://docs.opencv.org/master/dc/dff/tutorial_py_pyramids.html
+
+We can find Gaussian pyramids using cv.pyrDown() and cv.pyrUp() functions.

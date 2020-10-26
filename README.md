@@ -1,3 +1,8 @@
+# Working evvironment
+Visual Studio Code - Insider
+Extension:Jupyter
+Virtual envrionment: Python3.7.9-64-bit ('cv-env':conda)
+
 # M2R - MSc in Informatics
 Graphics Vision and Robotics
 and  Ubiquitous Interface Systems
